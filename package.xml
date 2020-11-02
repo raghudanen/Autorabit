@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>50.0</version>
+    <types>
+        <members>School__c.Area__c</members>
+        <members>School__c.ZIP_CODE__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>School__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>School__c.All</members>
+        <name>ListView</name>
+    </types>
+</Package>
